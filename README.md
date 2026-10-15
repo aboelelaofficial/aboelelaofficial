@@ -1,4 +1,4 @@
-# Mohamed Abo Ella | Digital Marketing Portfolio 🚀
+# Mohamed Abo El-Ela | Digital Marketing Portfolio 🚀
 
 > **Digital Marketer & Visual Storyteller** | Co-founder @ Atoma Marketing Agency
 > Translating 13 years of analytical physics research into data-driven, high-converting brand campaigns.
