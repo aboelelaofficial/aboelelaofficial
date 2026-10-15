@@ -12,7 +12,7 @@ I am a Digital Marketer and Visual Storyteller with a unique background. After e
 * **Technical:** Data Analysis, Performance Tracking, Content Calendar Management
 
 ## 📂 Featured Projects
-* [**Linked School Marketing Campaign**](./projects/linked-school.md) - Brand awareness and lead generation campaign utilizing Meta Ads, resulting in highly optimized CPL and 4.2K+ impressions.
+* [**Linked School Marketing Campaign**](.assets/linked-school.md) - Brand awareness and lead generation campaign utilizing Meta Ads, resulting in highly optimized CPL and 4.2K+ impressions.
 * *(Add more projects here as you build them!)*
 
 ## 📬 Connect With Me
